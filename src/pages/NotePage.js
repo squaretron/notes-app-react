@@ -50,7 +50,7 @@ const NotePage = () => {
             deleteNote();
         } else if (noteId !== "new") {
             updateNote();
-        } else if (noteId == "new" && note.body !== null) {
+        } else if (noteId === "new" && note.body !== null) {
             createNote();
         }
         navigate("/");
