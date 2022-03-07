@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "body": "React.js\n\n- Learn React.js\n- Build a React.js projects\n- Deploy the React.js project",
+      "updated": "2022-03-07T03:36:15.810Z"
+    },
+    {
+      "body": "Today's Agenda\n\n- Study For Exam\n- Code\n- Play Fortnite",
+      "updated": "2022-03-06T10:27:27.187Z",
+      "id": 4
+    },
+    {
+      "body": "Update calendar app\n\n- To have a today button to go to the current month\n- Make the styles better\n-  In the add popup make sure there is no overflow",
+      "updated": "2022-03-06T10:32:13.138Z",
+      "id": 6
+    }
+  ]
+}
